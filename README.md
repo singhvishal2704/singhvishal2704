@@ -2,7 +2,7 @@
 
 <br />
 
-## I'm a Programmer and Full Stack Developer!!
+## I'm a Software Engineer and Backend Developer!!
 
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning Web Development
